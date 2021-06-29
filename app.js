@@ -7,6 +7,9 @@ function handwriting(){
     if(handwriting == "TGE") {
         document.getElementById('page').style.fontFamily ="Tangerine"
     }
+    if(handwriting == "CVT") {
+        document.getElementById('page').style.fontFamily ="Caveat"
+    }
     else if (handwriting == "SIL") {
         document.getElementById('page').style.fontFamily = "Shadows Into Light"
     }
