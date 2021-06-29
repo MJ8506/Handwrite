@@ -10,6 +10,9 @@ function handwriting(){
     if(handwriting == "CVT") {
         document.getElementById('page').style.fontFamily ="Caveat"
     }
+    if(handwriting == "PKH") {
+        document.getElementById('page').style.fontFamily ="Patrick Hand"
+    }
     else if (handwriting == "SIL") {
         document.getElementById('page').style.fontFamily = "Shadows Into Light"
     }
