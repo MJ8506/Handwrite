@@ -5,7 +5,7 @@ function handwriting(){
         document.getElementById('page').style.fontFamily ="Homemade Apple"
     }
     if(handwriting == "TGE") {
-        document.getElementById('page').style.fontFamily ="H"
+        document.getElementById('page').style.fontFamily ="Tangerine"
     }
     else if (handwriting == "SIL") {
         document.getElementById('page').style.fontFamily = "Shadows Into Light"
