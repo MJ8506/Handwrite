@@ -4,6 +4,9 @@ function handwriting(){
     if(handwriting == "HMA") {
         document.getElementById('page').style.fontFamily ="Homemade Apple"
     }
+    if(handwriting == "TGE") {
+        document.getElementById('page').style.fontFamily ="H"
+    }
     else if (handwriting == "SIL") {
         document.getElementById('page').style.fontFamily = "Shadows Into Light"
     }
